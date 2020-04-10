@@ -1,0 +1,7 @@
+.NotFound{
+  background-color: white;
+}
+.NotFound>img{
+  width: 400px;
+ margin-left: 400px;
+}
